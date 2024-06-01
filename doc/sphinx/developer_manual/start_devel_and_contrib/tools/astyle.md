@@ -2,7 +2,7 @@
 Astyle
 =====
 
-Astyle (Artistic Style) is a tool that automates the formatting of code. Executing astyle will automatically indent new code to the standard that the Geodynamic WorldBuilder uses, and should be done before each pull request to ensure that the indenter tests do not fail. 
+Astyle (Artistic Style) is a tool that automates the formatting of code. Executing astyle will automatically indent new code to the standard that the Geodynamic World Builder uses, and should be done before each pull request to ensure that the indenter tests do not fail. 
 
 GWB requires the use of astyle v2.04, which can be downloaded from sourceforge [here](https://sourceforge.net/projects/astyle/files/astyle/astyle%202.04/) for mac, linux or windows. 
 
